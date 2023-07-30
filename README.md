@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Agata. Since years I am deeply interested by data analysis. I really enjoy processing data using different analytical tools and languages.
 
 <!--
 **agtlesn/agtlesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
